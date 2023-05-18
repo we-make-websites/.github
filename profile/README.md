@@ -1,12 +1,12 @@
 <div align="center">
 
-[![We Make Websites](logo.png)](https://www.wemakewebsites.com/)
+[![We Make Websites](/profile/logo.png)](https://www.wemakewebsites.com/)
 
 
-![The Shopify Plus agency for international brands](header.png)
+![The Shopify Plus agency for international brands](/profile/header.png)
 
 
-![Quote mark](quote.png)
+![Quote mark](/profile/quote.png)
 
 ### "One of the most successful e-commerce agencies on the planet."
 
