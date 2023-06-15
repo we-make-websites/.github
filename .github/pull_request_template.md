@@ -6,7 +6,7 @@ Are you fixing a bug? Are you adding a new requested feature?
 Use the appropriate PR labels.
 -->
 
-**Task:** <!-- Jira task link -->
+**Task:** <!-- Jira task ID, e.g. CANVAS-422 -->
 
 # Checklist
 For contributors (tick with ☑):
