@@ -2,9 +2,7 @@
 
 [![We Make Websites](/profile/logo.png)](https://www.wemakewebsites.com/)
 
-
 ![The Shopify Plus agency for international brands](/profile/header.png)
-
 
 ![Quote mark](/profile/quote.png)
 
